@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dips6202&label=Profile%20views&color=0e75b6&style=flat" alt="dips6202" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4366947-Isometric-Illustration-Animation?utm_source=Clipboard_Shot&utm_campaign=iesight&utm_content=Isometric%20Illustration%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=iesight&utm_content=Isometric%20Illustration%20Animation&utm_medium=Social_Share" alt="dips6202" /></p>
 
 - 🌱 I’m currently learning **HTML and CSS.**
 
