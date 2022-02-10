@@ -5,7 +5,7 @@
 
   <img align="right" width="430" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" /> </p>   
 
-- 🌱 I’m currently learning **HTML and CSS.**
+- 🌱 I’m currently learning **MongoDB**.
 
 - 📫 How to reach me **deepikakumari6202@gmail.com**
 
