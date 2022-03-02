@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deepikakumari6202@gmail.com**
 
-- ⚡ Fun fact **I am funny xD.**
+- ⚡ Fun fact **I am very funny xD.**
 
 
 <h3 align="left">Connect with me:</h3>
