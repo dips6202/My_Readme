@@ -6,11 +6,11 @@
   <img align="right" width="430" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" /> </p>   
 
 
-- 🔭 I’m currently working on **repositories which interests me.**
+- 🔭 I’m currently working on **Repositories which interests me.**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **MongoDB.**
 
-- 👯 I’m looking to collaborate on **web development projects.**
+- 👯 I’m looking to collaborate on **Web Development projects.**
 
 - 💬 Ask me about **GitHub.**
 
@@ -31,6 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dips6202&show_icons=true&locale=en&layout=compact" alt="dips6202" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dips6202&show_icons=true&locale=en" alt="dips6202" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dips6202&" alt="dips6202" /></p>
