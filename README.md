@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/? username=dips6202&label=Profile%20views&color=0e75b6&style=flat" alt="dips6202" /> </p> 
 
-<p> <img align="rightmost" width="430" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" />   </p>
+- 🔭 I’m currently working on **Repositories which interests me.**                                              <p> <img align="rightmost" width="130" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" />   </p>
 
-
-
-- 🔭 I’m currently working on **Repositories which interests me.**  
                    
 - 🌱 I’m currently learning **MongoDB.**
  
