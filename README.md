@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm DEEPIKA KUMARI</h1>
 <h3 align="center">Not afraid of trying new skills and stepping out of my comfort zone....</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/? username=dips6202&label=Profile%20views&color=0e75b6&style=flat" alt="dips6202" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/? username=dips6202&label=Profile%20views&color=0e75b6&style=flat" alt="dips6202" /> 
  
-  <img align="right" width="410" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" /> 
-  </p>  
+  <img align="right" width="430" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" />   </p>  
   
 
 - 🔭 I’m currently working on **Repositories which interests me.**
