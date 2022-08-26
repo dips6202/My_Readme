@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Repositories which interests me.**                                              
                    
-- 🌱 I’m currently trying to **learn new stuff.**
+- 🌱 I’m currently trying to **Learn new skills.**
  
 - 👯 I’m looking to collaborate on **Web Development projects.**
  
