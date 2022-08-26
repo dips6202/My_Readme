@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/? username=dips6202&label=Profile%20views&color=0e75b6&style=flat" alt="dips6202" /> </p> 
 
-   <img align="right" alt="coding" width="530" src="https://static.wixstatic.com/media/ab056a_a8cfa7317713482dbf3047c04719a41c~mv2.gif" >   
+   <img align="right" alt="coding" width="450" src="https://static.wixstatic.com/media/ab056a_a8cfa7317713482dbf3047c04719a41c~mv2.gif" >   
    
 
 - 🔭 I’m currently working on **Repositories which interests me.**                                              
