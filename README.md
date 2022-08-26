@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/? username=dips6202&label=Profile%20views&color=0e75b6&style=flat" alt="dips6202" /> </p> 
 
-   <img align="center" width="430" img src="https://xylomeet.com/wp-content/uploads/2020/06/meet-for-finance.gif" alt="dips6202" />   </p>
+   <img align="right" alt="coding" width="330" src="https://miro.medium.com/max/700/1*qdAW1TjCN57h1lbuuzvchg.gif" >   
    
 
 - 🔭 I’m currently working on **Repositories which interests me.**                                              
