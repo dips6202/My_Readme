@@ -40,3 +40,6 @@ alt="dips6202" /></p>
 
 <br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dips6202&&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D" alt="dips6202" />
+
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dips6202&theme=dark&show_icons=true&locale=en" alt="dips6202" /></p>
+
